@@ -42,6 +42,7 @@ CKAN, is the world's leading Open Source data portal platform. Information about
 
 Documentation for CKAN can be difficult to get into, but overall is very well done. There is also a really helpful [gitter chat](https://gitter.im/ckan/chat) for CKAN developers. Below you can find documentation on the installation process to get the source version of CKAN along with the extensions that support CSA features. The installation process should take 4-6 hours, and must be done on a UNIX machine, preferably using a Ubuntu 16.04.  
 
+
 ## Installing CKAN from source  
 
 Copied with some modifications from: [https://docs.ckan.org/en/2.8/maintaining/installing/deployment.html](https://docs.ckan.org/en/2.8/maintaining/installing/deployment.html)  
